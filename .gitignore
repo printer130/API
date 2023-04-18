@@ -1,0 +1,16 @@
+.env
+etl
+etl/*
+etl/**
+__pycache__
+__pycache__/*
+__pycache__/**
+venv_api
+venv_api
+contrato.txt
+venv
+./venv/**
+./venv/*
+venv/**
+a.txt
+model.pkl
